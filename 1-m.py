@@ -8,4 +8,10 @@ for i in son:
     file.write(chr(i))
 
 
+"""
+Men git orqali yuklandim
+
+"""
+
+
 
